@@ -1,7 +1,7 @@
 ## 这是什么
 
 
-You can use the [editor on GitHub](https://github.com/HRHR1/HRHR1.github.io/edit/master/index.md) 这又是什么
+[editor on GitHub](https://bilibili.com) 这又是什么
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) 这是什么.
 
