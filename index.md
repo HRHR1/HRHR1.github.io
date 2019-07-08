@@ -1,21 +1,38 @@
-## 创价猎奇文化合集
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="initial-scale=1, maximum-scale=3, minimum-scale=1, user-scalable=no">
+<title>ubc2</title>
+<style type="text/css">
+body,td,th {
+	font-family: "微软雅黑", "Segoe UI", "DejaVu Sans", "Trebuchet MS", sans-serif, ;
+}
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+a:hover {
+	text-decoration: none;
+}
+a:active {
+	text-decoration: none;
+}
+</style>
+</head>
 
-
-[屑站链接](https://bilibili.com) 猎奇坟场
-
-[资料参闻](https://ubc2.github.io/links/menu.html) B站危险地带合集
-
-[创价文化避难所](https://qmj0130.wodemo.net/chuangjia)创价合集
-
-[自整](https://2786127571.wodemo.net/entry/519993)，，，
-
-
-## 注意事项    
-
-请不要在无关视频（尤其是素材和原视频）里刷“av10492”或其他“精神污染”视频的编号，否则会被称为五位数小鬼。
-请不要频繁“打卡”、“签到”，尤其是在素材和原视频里。
-请不要对自己知之甚少的事情随意发表评论。
-请不要发表过长的无意义弹幕进行所谓“护眼”，av10492除外，因为已经无药可救了。
-请不要把av10492、创价学会、高等精神病等同起来。
-请记住，在一个其他up主发的创价MAD中千万不要发AV10492，这是一种对up主的努力作品的亵渎且会导致up主的极端厌恶。
-不建议恶意补档av10492等内容，这样做会遭到熟知音MAD相关知识作者的声讨。
+<body bgcolor="#014D50" text="#FFFFFF" link="#FFFFFF">
+<h1 style="text-align: left"><a href="links/menu.html">内容</a></h1>
+<hr noshade="noshade" />
+<p><strong>内容，指事物所包含的实质性事物。</strong></p>
+<blockquote>
+  <p>三层含义：<br />
+    1.物件里面所包容的东西；<br />
+    2.事物内部所含的实质或意义；<br />
+    3.指事物内在因素的总和，与形式相对。</p>
+</blockquote>
+</body>
+</html>
