@@ -1,7 +1,7 @@
 
 
 <body bgcolor="#014D50" text="#FFFFFF" link="#FFFFFF">
-<h1 style="text-align: left"><a href="links/menu.html">内容</a></h1>
+<h1 style="text-align: left"><a href="links/r.html">内容</a></h1>
 <hr noshade="noshade" />
 <p><strong>内容，指事物所包含的实质性事物。</strong></p>
 <blockquote>
