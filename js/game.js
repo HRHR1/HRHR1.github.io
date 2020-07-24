@@ -1,4 +1,4 @@
-require.register('game.js', function(exports, require, module) {
+﻿require.register('game.js', function(exports, require, module) {
 'use strict';
 
 var global = require('global');
@@ -169,7 +169,7 @@ function addScore() {
 
 function updateScoreText() {
   scoreText.setText(
-    '大会员 %s00年'.replace('%s', score)
+    '灵痴子 %s00年'.replace('%s', score)
   );
 }
 
