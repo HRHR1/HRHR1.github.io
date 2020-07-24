@@ -1,4 +1,4 @@
-require.register('scene.js', function(exports, require, module) {
+﻿require.register('scene.js', function(exports, require, module) {
 'use strict';
 
 var global = require('global');
@@ -52,7 +52,7 @@ var playButton, restartButton, feedbackButton, playBgmButton;
 
 function setLoadingText(percent) {
   loadingText.setText(
-    'Loading...\n\n出圈的行程: %s %'.replace('%s', percent)
+    'Loading...\n\n灵梦增殖中: %s %'.replace('%s', percent)
   );
 }
 
@@ -60,7 +60,7 @@ function createLoadingScreen() {
   tipsText = global.phaserGame.add.text(
     global.phaserGame.width / 2,
     global.phaserGame.height / 4,
-    '请打开声音',
+    '请别打开声音',
     {
       font: '16px ' + global.font,
       fill: '#fff',
@@ -109,7 +109,7 @@ function createButtons() {
     y: global.phaserGame.height - global.phaserGame.height / 5,
     anchorX: 0.5,
     anchorY: 0.5,
-    text: '来世愿生二刺螈 点击重生'
+    text: '来世愿生幻想乡 点击重生'
   });
   restartButton.hide();
 
@@ -122,7 +122,7 @@ function createButtons() {
     x: 0,
     y: 0,
     size: '14px',
-    text: '叔叔我啊 真的生气了'
+    text: '灵梦灵梦草泥马批'
   });
 
   feedbackButton.events.onInputUp.add(function() {
@@ -140,7 +140,7 @@ function createButtons() {
     y: 0,
     anchorX: 1,
     size: '14px',
-    text: '我身上有股浓浓的哔哩哔哩味儿'
+    text: '初音是什么烂批人物，比得上灵梦？'
   });
 
   playBgmButton.events.onInputUp.add(function() {
@@ -167,7 +167,7 @@ function createScoreText() {
 }
 
 function showScore() {
-  var text = '我给陈睿充了 %s00 年大会员\n自己当了 %s 年批小将\n\哩味儿最浓的一次充了 %s00 年 ';
+  var text = '我守护灵梦 %s00  \n自己当了 %s 年灵卫兵\n\灵梦味儿最浓的一次充了 %s00 年 ';
 
   var score = global.score;
   var timeElapsed = global.timeElapsed;
