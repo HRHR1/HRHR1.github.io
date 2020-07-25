@@ -52,7 +52,7 @@ var playButton, restartButton, feedbackButton, playBgmButton;
 
 function setLoadingText(percent) {
   loadingText.setText(
-    'Loading...\n\n灵梦增殖中: %s %'.replace('%s', percent)
+    'Loading...\n\n灵梦生成中: %s %'.replace('%s', percent)
   );
 }
 
@@ -167,7 +167,7 @@ function createScoreText() {
 }
 
 function showScore() {
-  var text = '我守护灵梦 %s00  \n自己当了 %s 年灵卫兵\n\灵梦味儿最浓的一次充了 %s00 年 ';
+  var text = '我守护灵梦 %s00  \n自己当了 %s 年灵卫兵\n\灵梦味儿最浓的一次有 %s00 年 ';
 
   var score = global.score;
   var timeElapsed = global.timeElapsed;
